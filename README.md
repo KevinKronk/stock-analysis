@@ -8,10 +8,14 @@
 
 ### Stock Performance: 2017 vs 2018
 
+
+
 ![Stock Returns 2017](Resources/Stock_Returns_2017.png)
 ![Stock Returns 2018](Resources/Stock_Returns_2018.png)
 
 ### Execution Times: Original vs Refactored Script
+
+As you can see in the images below, the refactored macro took less than 1/6th the amount of time to run as the original macro. This is largely because in the original macro a for loop was run through all the tickers, and then a nested for loop ran through all the data for each ticker. In the refactored code a single for loop is used to go through all the data while the information for each ticker was stored in arrays. 
 
 Original Macro Execution Times
 
