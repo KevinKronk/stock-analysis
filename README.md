@@ -14,10 +14,12 @@
 ### Execution Times: Original vs Refactored Script
 
 Original Macro Execution Times
+
 ![Original Macro 2017](Resources/Original_Stock_Macros_2017.png)
 ![Original Macro 2018](Resources/Original_Stock_Macro_2018.png)
 
 Refactored Macro Execution Times
+
 ![Refactored Macro 2017](Resources/VBA_Challenge_2017.png)
 ![Refactored Macro 2018](Resources/VBA_Challenge_2018.png)
 
