@@ -4,7 +4,7 @@
 
 ### Purpose
 
-Steve wants to analyze the entire stock market over the last few years in order to help determine which stocks his parents should invest in. Because they are interested in green technologies, they initially wanted to invest everything in DAQO New Energy Corporation, which has the ticker DQ. However, Steve helped encourage them to diversify, and decided to analyze 12 different green companies first. We need to create an efficeint macro that is able to scan through the data and print out the Total Daily Volume and Return for not only 12 companies, but the entire stock market. 
+Steve wants to analyze the entire stock market over the last few years in order to help determine which stocks his parents should invest in. Because they are interested in green technologies, they initially wanted to invest everything in DAQO New Energy Corporation, which has the ticker DQ. However, Steve helped encourage them to diversify, and decided to analyze 12 different green companies first. We need to create an efficient macro that is able to scan through the data and print out the Total Daily Volume and Return for not only 12 companies, but the entire stock market. 
 
 ## Results
 
