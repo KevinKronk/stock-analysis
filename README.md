@@ -30,3 +30,4 @@ Refactored code can be more efficient, which can save a lot of time and money in
 
 - How do these pros and cons apply to refactoring the original VBA script? 
 
+The refactored macro ran more than 6x faster than the original macro. In my opinion the code is also easier to understand as you only go through the data once adding values to arrays, and then you print those values with formatting afterwards. There were some initial issues getting the return values to be correct (needed to use closing price on both the Starting and Ending values), once fixed, the output was correct. While it did take time to refactor the original VBA script, if this was a process that was run every day on a much larger file, then the increase in speed would be worth it.
